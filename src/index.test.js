@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { ReactNaijaStateLgaSelect } from '.'
 
-describe('ExampleComponent', () => {
+describe('ReactNaijaStateLgaSelect', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(ReactNaijaStateLgaSelect).toBeTruthy()
   })
 })
