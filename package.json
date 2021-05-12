@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "A React Select library for Nigeria States to get LGA of selected states",
   "author": "echilaka1",
+  "keywords": [ 
+    "Nigeria", 
+    "States", 
+    "Local Government Area", "LGA","react-component", "react-library", "Country", "Naija", "Capital", "City" ],
   "license": "MIT",
   "repository": "echilaka1/react-select-nigeria-states-lga",
   "main": "dist/index.js",
